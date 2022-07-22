@@ -6,9 +6,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Medium][medium-shield]][medium-url]
-[![Twitter][twitter-shield]][twitter-url]
-[![Linkedin][linkedin-shield]][linkedin-url]
 
 # Text Classification with CNNs in PyTorch
 The aim of this repository is to show a baseline model for text classification through convolutional neural networks in the PyTorch framework. The architecture implemented in this model was inspired by the one proposed in the paper: <a href="https://arxiv.org/pdf/1408.5882.pdf">Convolutional Neural Networks for Sentence Classification</a>.
